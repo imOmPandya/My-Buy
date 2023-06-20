@@ -6,7 +6,7 @@ export const AppLogo = () => {
   return (
     <Link href="/">
       <Text color="gray.800" fontWeight="bold">
-        MS{' '}
+        MY{' '}
         <Text as="span" color="brand.primary">
           BUY
         </Text>
